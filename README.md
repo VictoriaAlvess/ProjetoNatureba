@@ -6,4 +6,6 @@
 5 - Para a criação, foi preciso fazer um planejamento de como seria feito nosso software, pensar no design, o que gostaríamos de oferecer para o cliente, para depois programar o mais próximo do que foi planejado.\
 6 - Com recursos, fizemos, um brainstorm, depois um rascunho, para depois produzir.\
 7 - O critério utilizado, foi pensando na facilidade em que o público alvo tem para conseguir encontrar o que procura, e ter o melhor atendimento possível.\
-8 - Como riscos, tem que ser analisado nossa concorrência, que é com empresas de grandes marcas e já tem seu nome no mercado, porém também apresentamos um diferencial em relação ao nossos concorrentes.\
+8 - Como riscos, tem que ser analisado nossa concorrência, que é com empresas de grandes marcas e já tem seu nome no mercado, porém também apresentamos um diferencial em relação ao nossos concorrentes.
+
+##Autores: Arthur Nakaya, Vinicius Brancatti e Victória Alves
