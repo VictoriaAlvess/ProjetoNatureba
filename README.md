@@ -8,4 +8,4 @@
 7 - O critério utilizado, foi pensando na facilidade em que o público alvo tem para conseguir encontrar o que procura, e ter o melhor atendimento possível.\
 8 - Como riscos, tem que ser analisado nossa concorrência, que é com empresas de grandes marcas e já tem seu nome no mercado, porém também apresentamos um diferencial em relação ao nossos concorrentes.
 
-##Autores: Arthur Nakaya, Vinicius Brancatti e Victória Alves
+### Autores: Arthur Nakaya, Vinicius Brancatti e Victória Alves
